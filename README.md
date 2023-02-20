@@ -1,6 +1,6 @@
 # LuccasSilva
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccasSilvaDev&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasSilvaDev&theme=dark)](https://github.com/LuccasSilvaDev/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccasSilvaDev&theme=dark&show_icons=true&PAT_1) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasSilvaDev&theme=dark&PAT_1)](https://github.com/LuccasSilvaDev/github-readme-stats&PAT_1)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luccas-VBA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
