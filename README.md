@@ -1,41 +1,45 @@
-# 👋 Olá, eu sou o Luccas Silva!
+<h1 align="center">👋 Olá, eu sou o Luccas Silva!</h1>
 
-## 📊 Sobre mim
+<p align="center">
+  📊 Analista de Sistemas | Entusiasta de Análise de Dados e BI | Apaixonado por transformar dados em decisões estratégicas.
+</p>
 
-Sou **Analista de Sistemas Pleno** na **Santa Casa de Sorocaba**, atuando na área de **Análise de Dados, BI e Banco de Dados**.  
-Apaixonado por transformar dados em informações estratégicas e apoiar a tomada de decisão por meio de insights bem fundamentados.
+---
 
-Atualmente desenvolvo projetos pessoais e profissionais utilizando:
-- 📌 **SQL (Oracle, MariaDB, MySQL)**
-- 📌 **PL/SQL**
-- 📌 **Python para Data Science**
-- 📌 **Power BI**
-- 📌 **Excel Avançado**
+## 📌 Sobre mim
+
+🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** pela Faculdade Descomplica.  
+🏥 Trabalho na **Santa Casa de Sorocaba** como **Analista de Sistemas Pleno**, atuando com Oracle, MariaDB e BI.  
+📈 Estou me especializando em **Análise de Dados**, **Business Intelligence** e **Data Science**.  
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
+- **Banco de Dados:** Oracle, MariaDB, MySQL, PostgreSQL  
+- **Linguagens:** PL/SQL, T-SQL, Python (em aprendizado)  
+- **BI e Visualização:** Power BI, Excel Avançado  
+- **Ferramentas:** DBeaver, TabWin, Power BI Service, VSCode
 
 ---
 
-## 📌 Projetos em Destaque
+## 📊 Projetos em Destaque
 
-- [📊 DataSUS-PowerBI](https://github.com/LSDataScience/datasus-powerbi)
-- [💾 SQL-Queries-Oracle](https://github.com/LSDataScience/SQL-Queries-Oracle)
-- [🐍 Python-DataScience](https://github.com/LSDataScience/Python-DataScience)
-- [📈 PowerBI-Reports](https://github.com/LSDataScience/PowerBI-Reports)
+| 📂 Projeto | 📑 Descrição | 📎 Link |
+|:-----------------|:-----------------------------------------------------|:-----------|
+| DATASUS-Dashboard | Análises e visualizações usando dados públicos do DATASUS | _[Em breve]_ |
+| SQL-Queries | Scripts de consulta e manipulação para BI e suporte | _[Em breve]_ |
+| PowerBI-Reports | Dashboards e relatórios gerenciais em Power BI | _[Em breve]_ |
 
 ---
 
 ## 📫 Contato
 
-- 📧 E-mail: luccas_silva@outlook.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luccas-silva)
+- 📧 E-mail: [luccas_silva@outlook.com](mailto:luccas_silva@outlook.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luccas-silva)  
 
 ---
+
+<p align="center">
+  📊 <strong>“Dados bem analisados transformam instituições e carreiras.”</strong>
+</p>
