@@ -1,50 +1,41 @@
-# About me 
-----------
-- 😎 My name is Luccas,
+# 👋 Olá, eu sou o Luccas Silva!
 
-##
+## 📊 Sobre mim
 
-## :hammer_and_wrench: Languages and Tools :
+Sou **Analista de Sistemas Pleno** na **Santa Casa de Sorocaba**, atuando na área de **Análise de Dados, BI e Banco de Dados**.  
+Apaixonado por transformar dados em informações estratégicas e apoiar a tomada de decisão por meio de insights bem fundamentados.
 
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" **alt="VisualStudio" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="sqldeveloper" **alt="sqldeveloper" width="40" height="40"/>
-</div>
+Atualmente desenvolvo projetos pessoais e profissionais utilizando:
+- 📌 **SQL (Oracle, MariaDB, MySQL)**
+- 📌 **PL/SQL**
+- 📌 **Python para Data Science**
+- 📌 **Power BI**
+- 📌 **Excel Avançado**
 
-## What I'm coding?
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasSilvaDev&theme=dark&PAT_1)](https://github.com/LuccasSilvaDev/github-readme-stats&PAT_1)
+## 🚀 Tecnologias e Ferramentas
 
-## :fire: My Stats :
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuccasSilvaDev&theme=dark&background=000000)](https://git.io/streak-stats)
-  
- ## Where you can find me? 📫
- 
-<div> 
-  <a href = "mailto:luccassilvadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/LuccasSilvaDev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "http://api.whatsapp.com/send?phone=5515991124179"><img src="https://img.shields.io/badge/-whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+---
 
-<!--START_SECTION:waka-->
-name: Waka Readme
+## 📌 Projetos em Destaque
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+- [📊 DataSUS-PowerBI]([https://github.com/LSDataScience/SUSPro-Dashboard](https://github.com/LSDataScience/datasus-powerbi))
+- [💾 SQL-Queries-Oracle](https://github.com/LSDataScience/SQL-Queries-Oracle)
+- [🐍 Python-DataScience](https://github.com/LSDataScience/Python-DataScience)
+- [📈 PowerBI-Reports](https://github.com/LSDataScience/PowerBI-Reports)
 
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-<!--END_SECTION:waka-->
+---
+
+## 📫 Contato
+
+- 📧 E-mail: luccas_silva@outlook.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luccas-silva)
+
+---
