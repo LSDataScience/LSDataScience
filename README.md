@@ -26,7 +26,7 @@ Atualmente desenvolvo projetos pessoais e profissionais utilizando:
 
 ## 📌 Projetos em Destaque
 
-- [📊 DataSUS-PowerBI]([https://github.com/LSDataScience/SUSPro-Dashboard](https://github.com/LSDataScience/datasus-powerbi))
+- [📊 DataSUS-PowerBI](https://github.com/LSDataScience/datasus-powerbi))
 - [💾 SQL-Queries-Oracle](https://github.com/LSDataScience/SQL-Queries-Oracle)
 - [🐍 Python-DataScience](https://github.com/LSDataScience/Python-DataScience)
 - [📈 PowerBI-Reports](https://github.com/LSDataScience/PowerBI-Reports)
