@@ -27,9 +27,9 @@
 
 | 📂 Projeto | 📑 Descrição | 📎 Link |
 |:-----------------|:-----------------------------------------------------|:-----------|
-| DATASUS-Dashboard | Análises e visualizações usando dados públicos do DATASUS | _[Em breve]_ |
-| SQL-Queries | Scripts de consulta e manipulação para BI e suporte | _[Em breve]_ |
-| PowerBI-Reports | Dashboards e relatórios gerenciais em Power BI | _[Em breve]_ |
+| DATASUS-Dashboard | Análises e visualizações usando dados públicos do DATASUS | _[DATASUS-Dashboard](https://github.com/LSDataScience/DATASUS-Dashboard.git)_ |
+| SQL-Queries | Scripts de consulta e manipulação para BI e suporte | _[SQL-Queries](https://github.com/LSDataScience/SQL-Queries.git)_ |
+| PowerBI-Reports | Dashboards e relatórios gerenciais em Power BI | _[PowerBI-Reports](https://github.com/LSDataScience/PowerBI-Reports.git)_ |
 
 ---
 
