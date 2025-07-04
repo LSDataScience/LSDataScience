@@ -19,17 +19,23 @@
 - **Banco de Dados:** Oracle, MariaDB, MySQL, PostgreSQL  
 - **Linguagens:** PL/SQL, T-SQL, Python (em aprendizado)  
 - **BI e Visualização:** Power BI, Excel Avançado  
-- **Ferramentas:** DBeaver, TabWin, Power BI Service, VSCode
+- **Ferramentas:** DBeaver, TabWin, Power BI Service, VSCode, GitHub Copilot
 
 ---
 
-## 📊 Projetos em Destaque
+## 📁 Projetos em Destaque
 
 | 📂 Projeto | 📑 Descrição | 📎 Link |
 |:-----------------|:-----------------------------------------------------|:-----------|
 | DATASUS-Dashboard | Análises e visualizações usando dados públicos do DATASUS | _[DATASUS-Dashboard](https://github.com/LSDataScience/DATASUS-Dashboard.git)_ |
 | SQL-Queries | Scripts de consulta e manipulação para BI e suporte | _[SQL-Queries](https://github.com/LSDataScience/SQL-Queries.git)_ |
 | PowerBI-Reports | Dashboards e relatórios gerenciais em Power BI | _[PowerBI-Reports](https://github.com/LSDataScience/PowerBI-Reports.git)_ |
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSDataScience&layout=compact&langs_count=6&theme=tokyonight)
 
 ---
 
